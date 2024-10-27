@@ -1,0 +1,82 @@
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS resource forks
+._*
+
+# macOS folder attributes
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+System Volume Information/
+
+# Python files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pyo
+*.pyd
+*.pymc
+
+# Virtual environments
+venv/
+env/
+ENV/
+.VENV/
+.venv/
+.pyenv/
+.pip/
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+*.out
+
+# Unit test / coverage results
+*.cover
+*.coverage
+*.coverage.*
+.cache
+.nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# PyCharm project files
+.idea/  # Ignore the entire .idea folder
+
+# Distribution files
+dist/
+build/
+*.egg-info/
+.eggs/
+.installed.cfg
+*.egg
+*.wheel
+
+# Byte-compiled / optimized / compiled code
+*.py[cod]
+*.pyo
+__pycache__/
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# pyenv
+.python-version
